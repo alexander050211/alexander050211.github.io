@@ -8,6 +8,14 @@ I'm an undergraduate at **Seoul National University**, double majoring in Comput
 
 Outside of research, I compete in algorithmic programming — ICPC Asia Regionals (2024, 2025), Codeforces ([alex0211](https://codeforces.com/profile/alex0211), Candidate Master).
 
+## Education
+
+- **Seoul National University** &nbsp;·&nbsp; Mar 2024 – Present  
+  B.S. Candidate, Computer Science and Engineering with Mathematical Sciences (dual major). GPA: 4.11 / 4.30 (CSE major: 4.13 / 4.30).
+
+- **Gyeonggi Science High School for the Gifted** &nbsp;·&nbsp; Mar 2021 – Jan 2024  
+  Suwon, South Korea.
+
 ## Research Interests
 
 - **Differential Privacy**
