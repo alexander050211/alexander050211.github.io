@@ -4,20 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I'm a Computer Science and Engineering undergraduate at **Seoul National University**, working with **Prof. Chenglin Fan** on differentially private subgraph counting and related problems in streaming and sublinear algorithms.
+
+Outside of research, I compete in algorithmic programming — ICPC Asia Regionals (2024, 2025), Codeforces ([alex0211](https://codeforces.com/profile/alex0211), Candidate Master).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Differential Privacy:** privacy-preserving data analysis under the (shuffle) DP model
+- **Streaming & Sublinear Algorithms:** sketching, sublinear graph property testing
+- **Theoretical Computer Science**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May 2026]** Submitted a manuscript to ACM CCS 2026 (Cycle B).
+- **[Nov 2025]** Placed 23rd at the 2025 ICPC Asia Seoul/Busan Regional Contest.
+- **[2025]** Awarded the Presidential Science Scholarship.
 
-{% include_relative _includes/publications.md %}
+## Honors and Awards
 
-{% include_relative _includes/services.md %}
+- **Presidential Science Scholarship** (2025)
+- **ICPC Asia Seoul/Busan Regional** — High Honor, 23rd place (2025)
+- **ICPC Asia Seoul Regional** — High Honor, 19th place (2024)
+- **Samsung Collegiate Programming Challenge** (Algorithm) — Finalist

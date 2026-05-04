@@ -1,50 +1,43 @@
-# Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+# Basic Information
+title: Inhyuk Park
+position: B.S. Student
+affiliation: Seoul National University
+affiliation_link: https://cse.snu.ac.kr/en
+email: alex0211 (at) snu.ac.kr
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Inhyuk Park, differential privacy, streaming algorithms, sublinear algorithms, theoretical computer science, SNU
+description: Inhyuk Park — Computer Science undergraduate at Seoul National University. Working on differential privacy, streaming, and sublinear algorithms.
+canonical: https://alexander050211.github.io/
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+# Links
+# google_scholar: deferred until first paper indexed
+# cv_link: deferred until curated CV PDF ready
+github_link: https://github.com/alexander050211
+# linkedin: not used
+# twitter: not used
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+# Footnote ("Powered by Jekyll and Minimal Light theme.")
 enable_footnote: true
 
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
 auto_dark_mode: true
 
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+# Font: "Serif" or "Sans Serif"
+font: "Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# Google Analytics — disabled
+# google_analytics:
 
 # Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
 
-# The following files will be removed from the generated website.
+# Files excluded from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
