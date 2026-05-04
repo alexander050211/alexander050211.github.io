@@ -96,8 +96,14 @@
         {% endif %}
 
         {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.twitter }}">
           <i class="fab fa-x-twitter"></i>
+        </a>
+        {% endif %}
+
+        {% if site.codeforces_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.codeforces_link }}" aria-label="Codeforces">
+          <i class="fas fa-code"></i>
         </a>
         {% endif %}
 
