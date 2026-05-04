@@ -11,7 +11,7 @@ Outside of research, I compete in algorithmic programming — ICPC Asia Regional
 ## Education
 
 - **Seoul National University** &nbsp;·&nbsp; Mar 2024 – Present  
-  B.S. Candidate, Computer Science and Engineering with Mathematical Sciences (dual major). GPA: 4.11 / 4.30 (CSE major: 4.13 / 4.30).
+  B.S. Candidate, Computer Science and Engineering with Mathematical Sciences (dual major). GPA: 4.11 / 4.30 (CSE major: 4.13 / 4.30; all A+ in math coursework).
 
 - **Gyeonggi Science High School for the Gifted** &nbsp;·&nbsp; Mar 2021 – Jan 2024  
   Suwon, South Korea.
