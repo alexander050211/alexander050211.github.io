@@ -24,6 +24,7 @@ Outside of research, I compete in algorithmic programming — ICPC Asia Regional
 
 ## News
 
+- **[May 2026]** Placed 3rd at the 2026 Jane Street Electronic Trading Challenge (Seoul).
 - **[May 2026]** Submitted a manuscript to ACM CCS 2026 (Cycle B).
 - **[Nov 2025]** Placed 23rd at the 2025 ICPC Asia Seoul/Busan Regional Contest.
 - **[Aug 2025]** Selected as a finalist at the Samsung Collegiate Programming Challenge.
@@ -32,6 +33,7 @@ Outside of research, I compete in algorithmic programming — ICPC Asia Regional
 
 ## Honors and Awards
 
+- **Jane Street Electronic Trading Challenge** — 3rd place (Seoul, 2026)
 - **Kim Jae-chul AI Class**, Seoul National University — selected (2026 cohort)
 - **ICPC Asia Seoul/Busan Regional** — High Honor, 23rd place (2025)
 - **Samsung Collegiate Programming Challenge** (Algorithm) — Finalist (2025)
