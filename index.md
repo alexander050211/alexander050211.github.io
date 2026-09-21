@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I'm an undergraduate at **Seoul National University**, double majoring in Computer Science and Engineering and Mathematical Sciences. I work in the [AFD Lab](https://sites.google.com/snu.ac.kr/afdlabsnu/afd-lab?authuser=0) under **Prof. Chenglin Fan** on problems in differential privacy and sublinear algorithms.
+I'm an undergraduate at **Seoul National University**, double majoring in Computer Science and Engineering and Mathematical Sciences. I work in the [AFD Lab](https://sites.google.com/snu.ac.kr/afdlabsnu/afd-lab?authuser=0) under **Prof. Chenglin Fan** on problems in differential privacy, sublinear algorithms, and proofs of proximity.
 
 Outside of research, I compete in algorithmic programming — ICPC Asia Regionals (2024, 2025), Codeforces ([alex0211](https://codeforces.com/profile/alex0211), Candidate Master).
 
 ## Education
 
 - **Seoul National University** &nbsp;·&nbsp; Mar 2024 – Present  
-  B.S. Candidate, Computer Science and Engineering with Mathematical Sciences (dual major). GPA: 4.11 / 4.30 (CSE major: 4.13 / 4.30; all A+ in math coursework).
+  B.S. Candidate, Computer Science and Engineering with Mathematical Sciences (dual major). GPA: 4.11 / 4.30 (CSE major: 4.13 / 4.30; all A+ in math coursework). Currently on a leave of absence.
 
 - **Gyeonggi Science High School for the Gifted** &nbsp;·&nbsp; Mar 2021 – Jan 2024  
   Suwon, South Korea.
@@ -24,8 +24,11 @@ Outside of research, I compete in algorithmic programming — ICPC Asia Regional
 
 ## News
 
+- **[Sep 2026]** Submitted *"Differentially Private Proofs of Proximity for Bounded-Degree Graphs"* (with Prof. Chenglin Fan) to ITCS 2027.
+- **[Aug 2026]** Won a Bronze Award (Nexon Foundation Chairman's Award) at the NYPC 2026 Master Track Finals with Team CPG.
+- **[Jul 2026]** Submitted *"When Does Shuffling Help? An Algebraic Parity Split for DP Cycle Counting"* to AAAI 2027.
+- **[Jun 2026]** Placed 1st of 34 teams in the Basics of Deep Learning term project (TCG Opal protocol compliance verification).
 - **[May 2026]** Placed 3rd at the 2026 Jane Street Electronic Trading Challenge (Seoul).
-- **[May 2026]** Submitted a manuscript to ACM CCS 2026 (Cycle B).
 - **[Nov 2025]** Placed 23rd at the 2025 ICPC Asia Seoul/Busan Regional Contest.
 - **[Aug 2025]** Selected as a finalist at the Samsung Collegiate Programming Challenge.
 - **[Nov 2024]** Placed 19th at the 2024 ICPC Asia Seoul Regional Contest.
@@ -33,6 +36,7 @@ Outside of research, I compete in algorithmic programming — ICPC Asia Regional
 
 ## Honors and Awards
 
+- **NYPC 2026 Master Track** — Bronze Award, Nexon Foundation Chairman's Award (2026)
 - **Jane Street Electronic Trading Challenge** — 3rd place (Seoul, 2026)
 - **Kim Jae-chul AI Class**, Seoul National University — selected (2026 cohort)
 - **ICPC Asia Seoul/Busan Regional** — High Honor, 23rd place (2025)
