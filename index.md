@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm an undergraduate at **Seoul National University**, double majoring in Computer Science and Engineering and Mathematical Sciences. I work in the [AFD Lab](https://sites.google.com/snu.ac.kr/afdlabsnu/afd-lab?authuser=0) under **Prof. Chenglin Fan** on problems in differential privacy, sublinear algorithms, and proofs of proximity.
+I'm an undergraduate at **Seoul National University**, double majoring in Computer Science and Engineering and Mathematical Sciences. I work in the [AFD Lab](https://snu-afd.github.io/) under **Prof. Chenglin Fan** on problems in differential privacy, sublinear algorithms, and proofs of proximity.
 
 Outside of research, I compete in algorithmic programming — ICPC Asia Regionals (2024, 2025), Codeforces ([alex0211](https://codeforces.com/profile/alex0211), Candidate Master).
 
@@ -27,7 +27,6 @@ Outside of research, I compete in algorithmic programming — ICPC Asia Regional
 - **[Sep 2026]** Submitted *"Differentially Private Proofs of Proximity for Bounded-Degree Graphs"* to ITCS 2027.
 - **[Aug 2026]** Finished top 10 of 1,603 teams at the NYPC 2026 Master Track with Team CPG, taking a Bronze Award (Nexon Foundation Chairman's Award).
 - **[Jul 2026]** Submitted *"When Does Shuffling Help? An Algebraic Parity Split for DP Cycle Counting"* to AAAI 2027.
-- **[Jun 2026]** Placed 1st of 34 teams in the Basics of Deep Learning term project (TCG Opal protocol compliance verification).
 - **[May 2026]** Placed 3rd at the 2026 Jane Street Electronic Trading Challenge (Seoul).
 - **[Nov 2025]** Placed 23rd at the 2025 ICPC Asia Seoul/Busan Regional Contest.
 - **[Aug 2025]** Selected as a finalist at the Samsung Collegiate Programming Challenge.
